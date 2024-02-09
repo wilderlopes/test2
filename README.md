@@ -8,3 +8,4 @@ Make sure to install the following packages:
 - ogre-cli
 - numpy
 - torch
+- docker
